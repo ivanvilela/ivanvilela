@@ -16,7 +16,7 @@ Sou Ivan, desenvolvedor nas horas vagas.
 
 ## Habilidades
 
-## Habilidades
+<div style="display: flex; justify-content: space-between;">
 
 ### Linguagens
 <div style="display: flex; align-items: center;">
@@ -34,6 +34,10 @@ Sou Ivan, desenvolvedor nas horas vagas.
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+
 ### Bancos de Dados
 <div style="display: flex; align-items: center;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" style="margin-right: 10px;" />
@@ -46,6 +50,10 @@ Sou Ivan, desenvolvedor nas horas vagas.
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin-right: 10px;" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 </div>
+
+</div>
+
+<div style="display: flex; justify-content: space-between;">
 
 ### IDE's
 <div style="display: flex; align-items: center;">
@@ -60,6 +68,9 @@ Sou Ivan, desenvolvedor nas horas vagas.
 <div style="display: flex; align-items: center;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </div>
+
+</div>
+
 
 
 
