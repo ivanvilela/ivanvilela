@@ -1,4 +1,4 @@
-
+                                    
 # Olá! 👋
 
 Sou Ivan, desenvolvedor nas horas vagas.
@@ -7,7 +7,7 @@ Sou Ivan, desenvolvedor nas horas vagas.
 - Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo Python.
 - 📫 Você pode me encontrar em 
-            <img height="20px" weight="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+            <img height="70px" weight="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
             
            
           
