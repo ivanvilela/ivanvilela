@@ -18,58 +18,71 @@ Sou Ivan, desenvolvedor nas horas vagas.
 
 <div style="display: flex; justify-content: space-between;">
 
-### Linguagens
-<div style="display: flex; align-items: center;">
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-</div>
+  <div>
+    <h3>Linguagens</h3>
+    <div style="display: flex; align-items: center;">
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    </div>
+  </div>
 
-### Frameworks
-<div style="display: flex; align-items: center;">
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-</div>
-
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-
-### Bancos de Dados
-<div style="display: flex; align-items: center;">
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-</div>
-
-### S.O.'s
-<div style="display: flex; align-items: center;">
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-</div>
+  <div>
+    <h3>Frameworks</h3>
+    <div style="display: flex; align-items: center;">
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+    </div>
+  </div>
 
 </div>
 
 <div style="display: flex; justify-content: space-between;">
 
-### IDE's
-<div style="display: flex; align-items: center;">
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="margin-right: 10px;" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="margin-right: 10px;" />       
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+  <div>
+    <h3>Bancos de Dados</h3>
+    <div style="display: flex; align-items: center;">
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+    </div>
+  </div>
+
+  <div>
+    <h3>S.O.'s</h3>
+    <div style="display: flex; align-items: center;">
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+    </div>
+  </div>
+
 </div>
 
-### Conhecimentos
-<div style="display: flex; align-items: center;">
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-</div>
+<div style="display: flex; justify-content: space-between;">
+
+  <div>
+    <h3>IDE's</h3>
+    <div style="display: flex; align-items: center;">
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="margin-right: 10px;" />
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="margin-right: 10px;" />       
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    </div>
+  </div>
+
+  <div>
+    <h3>Conhecimentos</h3>
+    <div style="display: flex; align-items: center;">
+      <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+    </div>
+  </div>
 
 </div>
+
 
 
 
