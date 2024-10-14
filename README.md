@@ -15,53 +15,76 @@ Sou Ivan, desenvolvedor nas horas vagas.
 <img src="https://github-readme-stats.vercel.app/api?username=ivanvilela&show_icons=true&theme=radical" width="300px" />
 
 ## Habilidades
-Linguagens:
-<div style="display: inline_block">
+
+### Linguagens
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-       
 </div>
 
-Frameworks:
-<div style="display: inline_block">
+### Frameworks
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
-
-Bancos de Dados:
-<div style="display: inline_block">
+### Bancos de Dados
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /> 
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />  
-  <img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </div>
 
-
-S.O.'s:
-<div style="display: inline_block">
+### S.O.'s
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />         
 </div>
 
-
-IDE's
-<div style="display: inline_block">
+### IDE's
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> 
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />       
+</div>
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />    
 </div>
 
-
-Conhecimentos:
-<div style="display: inline_block">
-   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+### Conhecimentos
+<div style="display: inline-block; margin-right: 10px;">
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </div>
+
 
 
           
