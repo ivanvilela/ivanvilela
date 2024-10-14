@@ -6,9 +6,10 @@ Sou Ivan, desenvolvedor nas horas vagas.
 - Formado em técnico Desenvolvimento de Sistemas.
 - Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo Python.
-- 📫 Você pode me encontrar em 
-            <img height="70px" weight="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+- 📫 Você pode me encontrar em <i class="devicon-linkedin-plain"></i>
             
+            
+          
            
           
           
