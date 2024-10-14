@@ -66,22 +66,14 @@ Sou Ivan, desenvolvedor nas horas vagas.
 ### IDE's
 <div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> 
-</div>
-<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-</div>
-<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-</div>
-<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />       
-</div>
-<div style="display: inline-block; margin-right: 10px;">
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />    
+<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> 
 </div>
 
 ### Conhecimentos
-<div style="display: inline-block;">
+<div style="display: inline-block; margin-right: 10px;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </div>
 
