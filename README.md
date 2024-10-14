@@ -1,4 +1,4 @@
-                                    
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />                                    
 # Olá! 👋
 
 Sou Ivan, desenvolvedor nas horas vagas.
@@ -7,6 +7,8 @@ Sou Ivan, desenvolvedor nas horas vagas.
 - Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo Python.
 - 📫 Você pode me encontrar em <i class="devicon-linkedin-plain"></i>
+           
+          
             
             
           
