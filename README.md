@@ -32,6 +32,7 @@ Frameworks:
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
+
 Bancos de Dados:
 <div style="display: inline_block">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /> 
@@ -39,11 +40,13 @@ Bancos de Dados:
   <img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </div>
 
+
 S.O.'s:
 <div style="display: inline_block">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />         
 </div>
+
 
 IDE's
 <div style="display: inline_block">
@@ -54,10 +57,10 @@ IDE's
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />    
 </div>
 
-Conhecimentos:
 
+Conhecimentos:
 <div style="display: inline_block">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </div>
 
 
