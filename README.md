@@ -3,9 +3,12 @@
 
 Sou Ivan, desenvolvedor nas horas vagas.
 
-- 🔭 Atualmente estou trabalhando em [projeto ou área].
-- 🌱 Aprendendo [tecnologia ou linguagem].
-- 📫 Você pode me encontrar em [LinkedIn ou outra rede social].
+- Formado em técnico Desenvolvimento de Sistemas.
+- Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
+- 🌱 Aprendendo Python.
+- 📫 Você pode me encontrar em 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          
 
 ## Linguagens mais usadas
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanvilela&layout=compact&langs_count=5&theme=radical" width="300px" />
