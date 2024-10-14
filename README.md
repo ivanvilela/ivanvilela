@@ -1,21 +1,13 @@
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />                                    
+                                 
 # Olá! 👋
 
 Sou Ivan, desenvolvedor nas horas vagas.
 
 - Formado em técnico Desenvolvimento de Sistemas.
 - Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo Python.
-- 📫 Você pode me encontrar em <i class="devicon-linkedin-plain"></i>
-           
-          
-            
-            
-          
-           
+- 📫 Você pode me encontrar em [Ivan Vilela](https://www.linkedin.com/in/ivanvilela)     
           
           
-
 ## Linguagens mais usadas
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanvilela&layout=compact&langs_count=5&theme=radical" width="300px" />
 
