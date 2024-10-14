@@ -81,7 +81,7 @@ Sou Ivan, desenvolvedor nas horas vagas.
 </div>
 
 ### Conhecimentos
-<div style="display: inline-block; margin-right: 10px;">
+<div style="display: inline-block;">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </div>
 
