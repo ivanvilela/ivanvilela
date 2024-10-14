@@ -15,8 +15,8 @@ Sou Ivan, desenvolvedor nas horas vagas.
 <img src="https://github-readme-stats.vercel.app/api?username=ivanvilela&show_icons=true&theme=radical" width="300px" />
 
 
-<img hight="30px" weidth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
-<img hight="30px" weidth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img hight="3px" weidth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+<img hight="3px" weidth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
           
 
           
