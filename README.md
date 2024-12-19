@@ -3,9 +3,9 @@
 
 Sou Ivan, desenvolvedor nas horas vagas.
 
--🌱 Formado em técnico Desenvolvimento de Sistemas.
--🔭 Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
--📫 Apaixonado por tecnologia e tudo que ela proporciona.
+- 🌱 Formado em técnico Desenvolvimento de Sistemas.
+- 🔭 Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
+- 📫 Apaixonado por tecnologia e tudo que ela proporciona.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ivanvilela/)     
           
