@@ -3,9 +3,11 @@
 
 Sou Ivan, desenvolvedor nas horas vagas.
 
-🌱 Formado em técnico Desenvolvimento de Sistemas.
-🔭 Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
-📫 Você pode me encontrar no [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ivanvilela/)     
+-🌱 Formado em técnico Desenvolvimento de Sistemas.
+-🔭 Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
+-📫 Apaixonado por tecnologia e tudo que ela proporciona.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ivanvilela/)     
           
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ivanvilela&theme=radical&hide_border=false)<br/>
