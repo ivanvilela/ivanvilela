@@ -4,7 +4,7 @@
 Sou Ivan, desenvolvedor nas horas vagas.
 
 - 🌱 Formado em técnico Desenvolvimento de Sistemas.
-- 🔭 Cursando 5° semestre de Análise e Desenvolvimento de Sistemas.
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas.
 - 📫 Apaixonado por tecnologia e tudo que ela proporciona.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ivanvilela/)     
@@ -30,7 +30,7 @@ Sou Ivan, desenvolvedor nas horas vagas.
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+Proudly created with GPRM ( https://gprm.itsvg.in ) 
 ## Linguagens mais usadas
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanvilela&layout=compact&langs_count=5&theme=radical" width="300px" />
 
@@ -105,8 +105,7 @@ Sou Ivan, desenvolvedor nas horas vagas.
   </div>
 
 </div>
-
--->          
+          
           
           
           
